@@ -26,7 +26,7 @@ natural language descriptions of mobile app UI screens.
 | Parameter | Value |
 |---|---|
 | Learning rate | 1e-4 |
-| Epochs | 1 |
+| Epochs | 3 |
 | Batch size | 2 |
 | Gradient accumulation | 4 (effective batch = 8) |
 | Scheduler | cosine |
