@@ -58,10 +58,4 @@ _ = model.generate(**inputs, streamer=text_streamer, max_new_tokens=128,
                    use_cache=True, temperature=1.5, min_p=0.1)
 ```
 
-## Example Output
-```
-This screenshot shows the summary page of a workout session from a mobile 
-fitness app. The top banner reads "Well done!" suggesting the user completed 
-a session successfully. The workout includes "Full Body" with a duration of 
-7:53 minutes...
-```
+
