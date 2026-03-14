@@ -1,5 +1,18 @@
 # Qwen2.5-VL Fine-tuned on RICO Screen2Words
 
+# ScreenScribe — Mobile UI Screen Captioning with Qwen2.5-VL
+
+![Fine-tuning](https://img.shields.io/badge/Method-QLoRA-blue)
+![Model](https://img.shields.io/badge/Model-Qwen2.5--VL--7B-purple)
+![Dataset](https://img.shields.io/badge/Dataset-RICO--Screen2Words-orange)
+![Hardware](https://img.shields.io/badge/Hardware-T4%20GPU-yellow)
+![Library](https://img.shields.io/badge/Library-Unsloth-red)
+![Samples](https://img.shields.io/badge/Training%20Samples-700-green)
+![Epochs](https://img.shields.io/badge/Epochs-3-blue)
+![Steps](https://img.shields.io/badge/Steps-247-blueviolet)
+![Loss](https://img.shields.io/badge/Train%20Loss-0.72-brightgreen)
+![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-aaryaupadhya20-ff69b4)
+
 Fine-tuned `Qwen2.5-VL-7B-Instruct` on the RICO Screen2Words dataset to generate 
 natural language descriptions of mobile app UI screens.
 
